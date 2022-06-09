@@ -25,3 +25,5 @@ Reference: this repo borrows codes and ideas from [retinanet](https://github.com
 [EdgeNets](https://github.com/sacmehta/EdgeNets),
 [det3](https://github.com/pyun-ram/FL3D)
 
+
+In this repo, the folders named as - "config", "objectDet3D" and "scripts" are the ones created by me.
