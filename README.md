@@ -2,7 +2,7 @@
 
 This repo aims to provide flexible and reproducible  3D object detection on KITTI dataset. I expect scripts starting from the current directory, and treat ./visualDet3D as a package that one could modify and test directly instead of a library. Several useful scripts are provided in the main directory for easy usage.
 
-I believe that visual tasks are interconnected, so we make this library extensible to more experiments. 
+I believe that visual tasks are interconnected. 
 The package uses registry to register datasets, models, processing functions and more, allowing easy inserting of new tasks/models while not interfere with the existing ones.
 
 
