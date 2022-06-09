@@ -9,7 +9,7 @@ The package uses registry to register datasets, models, processing functions and
 
 ## Key Features
 
-- **SOTA Performance** State of the art result on visual 3D detection.
+- **SOTA Performance** State of the art result on  3D object detection.
 - **Modular Design** Modular design for dataset, network and running pipelines.
 - **Support Various Task** Compatible with the training and testing of mono/stereo 3D detection and depth prediction.
 - **Distributed & Single GPU** Support training with multiple GPUs.
